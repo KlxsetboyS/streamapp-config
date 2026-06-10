@@ -24,10 +24,9 @@
       "id": "espn",
       "name": "ESPN",
       "category": "Deportes",
-      "icon": "🏈",
-      "type": "web",
-      "streamUrl": "https://www.tvplusgratis2.com/espn-en-vivo.php",
-      "serverOption": 2
+      "icon": "🏆",
+      "type": "hls",
+      "streamUrl": "https://deportes.ksdjugfsddeports.com:9092/NzYuMTA5LjEzNy4yMTM=/13_.m3u8?token=BJxuo3gs33FW9xNlN1E2gw&expires=1781086281"
     },
     {
       "id": "fox-sports",
