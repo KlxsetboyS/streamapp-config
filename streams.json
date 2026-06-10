@@ -26,7 +26,7 @@
       "category": "Deportes",
       "icon": "🏆",
       "type": "token",
-      "streamUrl": "https://iaw5b.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=76.109.137.213&token=e9d08cf89be4870fe90e0c08103a36e3accd88bf-fe-1781100840-1781046840"
+      "streamUrl": "https://iaw5b.envivoslatam.org/lb01/espn/index.m3u8?token=e9d08cf89be4870fe90e0c08103a36e3accd88bf-fe-1781100840-1781046840&ip=76.109.137.213"
     },
     {
       "id": "fox-sports",
