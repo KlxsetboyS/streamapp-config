@@ -1,0 +1,112 @@
+{
+  "_meta": {
+    "updated": "2026-06-09",
+    "note": "Estas URLs son de tvplusgratis2.com — la app las carga automáticamente con WebView"
+  },
+  "channels": [
+    {
+      "id": "canal10",
+      "name": "Canal 10",
+      "category": "General",
+      "icon": "📺",
+      "type": "hls",
+      "streamUrl": "https://d2qsan2ut81n2k.cloudfront.net/live/de56d452-7c64-4e7a-a0f5-aafb4bfa36b7/medialist_4276517416086298479_hls.m3u8"
+    },
+    {
+      "id": "tn8",
+      "name": "TN8 Nicaragua",
+      "category": "Noticias",
+      "icon": "📰",
+      "type": "hls",
+      "streamUrl": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8"
+    },
+    {
+      "id": "espn",
+      "name": "ESPN",
+      "category": "Deportes",
+      "icon": "🏈",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/espn-en-vivo.php"
+    },
+    {
+      "id": "espnPremium",
+      "name": "ESPN Premium",
+      "category": "Deportes",
+      "icon": "🏈",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/espn-premium-en-vivo.html"
+    },
+    {
+      "id": "espn2",
+      "name": "ESPN 2",
+      "category": "Deportes",
+      "icon": "🏈",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/espn-2-en-vivo.php"
+    },
+    {
+      "id": "espn3",
+      "name": "ESPN 3",
+      "category": "Deportes",
+      "icon": "🏈",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/espn-3-en-vivo.php"
+    },
+    {
+      "id": "fox",
+      "name": "Fox Sports",
+      "category": "Deportes",
+      "icon": "🦊",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/fox-sports-en-vivo.php"
+    },
+    {
+      "id": "fox2",
+      "name": "Fox Sports 2",
+      "category": "Deportes",
+      "icon": "🦊",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/fox-sports-2-en-vivo.php"
+    },
+    {
+      "id": "fox3",
+      "name": "Fox Sports 3",
+      "category": "Deportes",
+      "icon": "🦊",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/fox-sports-3-en-vivo.php"
+    },
+    {
+      "id": "DSport",
+      "name": "DirecTV Sports",
+      "category": "Deportes",
+      "icon": "🏆",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/directv-sports-en-vivo.php"
+    },
+    {
+      "id": "DSport2",
+      "name": "DirecTV Sports 2",
+      "category": "Deportes",
+      "icon": "🏆",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/directv-sports-2-en-vivo.php"
+    },
+    {
+      "id": "tnt",
+      "name": "TNT Sports",
+      "category": "Deportes",
+      "icon": "🎯",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/tnt-sports-en-vivo.php"
+    },
+    {
+      "id": "tudn",
+      "name": "TUDN",
+      "category": "Deportes",
+      "icon": "⚽",
+      "type": "web",
+      "streamUrl": "https://www.tvplusgratis2.com/tudn-en-vivo.php"
+    }
+  ]
+}
